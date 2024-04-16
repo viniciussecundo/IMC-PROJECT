@@ -1,0 +1,34 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Josefin Sans", sans-serif;
+  box-sizing: border-box;
+  background-color: #1a1535;
+  color: #fcfcf4;
+}
+
+.container {
+  display: flex;
+  padding: 20px 0 0 0;
+  flex-direction: column;
+  align-items: center;
+  row-gap: 10px;
+  background: transparent;
+}
+
+h1 {
+  color: #d077ab;
+}
+
+.input {
+  color: #fcfcf4;
+}
+
+#resultado {
+  color: #fcfcf4;
+}
+
+button {
+  cursor: pointer;
+  color: #fcfcf4;
+}
